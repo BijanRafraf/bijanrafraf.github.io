@@ -1,18 +1,18 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/0q_437nlyimqt.js"
+    "static/chunks/03.y.2.yt-3f4.js"
   ],
   "/404": [
-    "static/chunks/07p53d4u5y614.js"
+    "static/chunks/08xo.brg1lltl.js"
   ],
   "/_error": [
-    "static/chunks/02f-xah3cuzmn.js"
+    "static/chunks/0_6wgd24-g4bl.js"
   ],
   "/bernoulli-estimation": [
-    "static/chunks/047--8jjuz414.js"
+    "static/chunks/16b0zt78.rb4i.js"
   ],
   "/pomodoro": [
-    "static/chunks/0szdqchzztc8b.js"
+    "static/chunks/00kd_6vv8axs5.js"
   ],
   "__rewrites": {
     "afterFiles": [],
